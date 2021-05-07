@@ -806,9 +806,10 @@
       "enabled": true,
       "alwaysDisplayInConsole": false,
       "clientAuthenticatorType": "client-secret",
-      "secret": "**********",
+      "secret": "cc767c11-6204-4b8b-9031-01722db221ac",
       "redirectUris": [
-        "http://localhost:8080/auth"
+        "http://localhost:8080/auth",
+        "https://pfm-keycloak-server.herokuapp.com/auth"
       ],
       "webOrigins": [],
       "notBefore": 0,
